@@ -1,7 +1,7 @@
 {
   "name": "qingshan-cli",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "拉取 qingshan777 的 template 项目脚手架",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "qingshan": "./bin/cli.js"
   },
   "keywords": [],
-  "author": "liqingshan",
+  "author": "vaausud",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
